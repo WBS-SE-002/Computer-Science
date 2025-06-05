@@ -1,0 +1,1 @@
+flask --app foodreview run --debug --port 8080
